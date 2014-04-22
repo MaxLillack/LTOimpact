@@ -7,8 +7,6 @@ Tracking Load-time Configuration Options
 
 ...
 
-## Paper Preview ##
-
 ## Authors ##
 
 
