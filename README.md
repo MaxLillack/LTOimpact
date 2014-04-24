@@ -9,27 +9,42 @@ Tracking Load-time Configuration Options
 
 ## Authors ##
 
+Max Lillack
+
+[Christian Kästner](www.cs.cmu.edu/~ckaestne/)
+
+[Eric Bodden](http://www.bodden.de)
 
 
 ## Projects ##
-[Soot](soot.zip) (forked from https://github.com/Sable/soot)
+[Soot](soot-modmax) (forked from https://github.com/Sable/soot)
 
-[soot-infoflow](soot-infoflow.zip) (forked from https://github.com/secure-software-engineering/soot-infoflow)
+[soot-infoflow](soot-infolow) (forked from https://github.com/secure-software-engineering/soot-infoflow)
 
-[soot-infoflow-android](soot-android.zip) (forked from https://github.com/secure-software-engineering/soot-infoflow-android)
+[soot-infoflow-android](soot-infoflow-android) (forked from https://github.com/secure-software-engineering/soot-infoflow-android)
 
-[SPLLift_neu](spllift_neu.zip) (forked from https://github.com/secure-software-engineering/SPLlift)
+[SPLLift_neu](spllift) (forked from https://github.com/secure-software-engineering/SPLlift)
 
-[heros](heros.zip) (IFDS/IDE solver, forked from https://github.com/Sable/heros)
+[heros](heros) (IFDS/IDE solver, forked from https://github.com/Sable/heros)
 
-[loadtime-gui](loadtime-gui.zip) (Used to display configuration map)
+[loadtime-gui](loadtime-gui) (Used to display configuration map)
 
 soot-infoflow and soot-infoflow-android are part of [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/).
 
 ## Evaluation ##
 
-[Selected Apps from FDroid](selected.txt)
+[Selected Apps from FDroid](Evaluation/selected.txt)
 
-[Guideline document]()
+[Guideline document](Evaluation/Manual App Review Guidelines.pdf)
 
-[Results]() 
+[Result Document](Evaluation/Evaluation_10Apps_Result.pdf) 
+
+[Result Data (MongoDB dump, for use with loadtime-gui](Evaluation/MongoDB dump.zip)
+
+[Performance Result](Evaluation/performance.xml)
+
+[Script to randomly select apps from FDroid](Evaluation/selectFromFDroid.py)
+
+[Considered repository (full set at time of evaluation)](Evaluation/FDroidLinks.txt)
+
+Thankt to the [FDroid](https://f-droid.org/) projekt.
