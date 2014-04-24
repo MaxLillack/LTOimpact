@@ -5,7 +5,7 @@ Tracking Load-time Configuration Options
 
 ## Abstract ##
 
-...
+coming soon ...
 
 ## Authors ##
 
@@ -14,6 +14,18 @@ Max Lillack
 [Christian Kästner](www.cs.cmu.edu/~ckaestne/)
 
 [Eric Bodden](http://www.bodden.de)
+
+## Screenshots ##
+
+![Feature KEYBOARD](Screenshots/Screenshot1.PNG)
+
+Combination of Features (Mapping Jimple->Java not perfect)
+
+![Feature DEVICE/MANUFACTURER](Screenshots/Screenshot2.PNG)
+
+Same example in Jimple
+
+![Feature DEVICE/MANUFACTURER](Screenshots/Screenshot3.PNG)
 
 
 ## Projects ##
@@ -47,4 +59,4 @@ soot-infoflow and soot-infoflow-android are part of [FlowDroid](http://sseblog.e
 
 [Considered repository (full set at time of evaluation)](Evaluation/FDroidLinks.txt)
 
-Thankt to the [FDroid](https://f-droid.org/) projekt.
+Thankt to the [FDroid](https://f-droid.org/) project.
